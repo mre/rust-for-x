@@ -42,6 +42,7 @@ https://www.infoq.com/articles/rust-erlang-comparison/
 
 * https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
 * https://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/
+* https://github.com/rochacbruno/py2rs
 
 ## Ruby
 
