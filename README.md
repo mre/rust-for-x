@@ -47,3 +47,6 @@ https://www.infoq.com/articles/rust-erlang-comparison/
 
 * https://endler.dev/2017/rust-for-rubyists/
 
+## Other Lists
+
+https://github.com/ctjhoa/rust-learning#comparison-with-other-languages
