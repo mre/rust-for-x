@@ -15,7 +15,7 @@ This repository is still very rough around the edges. Please help me improve it 
 
 ## Erlang
 
-https://www.infoq.com/articles/rust-erlang-comparison/
+* https://www.infoq.com/articles/rust-erlang-comparison/
 
 ## Go
 
@@ -50,4 +50,4 @@ https://www.infoq.com/articles/rust-erlang-comparison/
 
 ## Other Lists
 
-https://github.com/ctjhoa/rust-learning#comparison-with-other-languages
+* https://github.com/ctjhoa/rust-learning#comparison-with-other-languages
