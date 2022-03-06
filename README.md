@@ -57,6 +57,10 @@ This repository is still very rough around the edges. Please help me improve it 
 * https://nostarch.com/rust-rustaceans
 * https://github.com/mre/idiomatic-rust
 
+## Swift
+
+* https://faq.sealedabstract.com/rust/
+
 ## Other Lists
 
 * https://github.com/ctjhoa/rust-learning#comparison-with-other-languages
