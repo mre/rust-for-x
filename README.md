@@ -13,6 +13,10 @@ This repository is still very rough around the edges. Please help me improve it 
 * https://sebnilsson.com/blog/from-csharp-to-rust-introduction/
 * https://gist.github.com/carols10cents/47f87b480e35f65897bf
 
+## Dart
+
+* https://dev.to/sunshine-chain/dart-meets-rust-a-match-made-in-heaven-9f5
+
 ## Erlang
 
 * https://www.infoq.com/articles/rust-erlang-comparison/
