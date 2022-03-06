@@ -57,6 +57,11 @@ This repository is still very rough around the edges. Please help me improve it 
 * https://nostarch.com/rust-rustaceans
 * https://github.com/mre/idiomatic-rust
 
+## Scala
+
+* http://blog.madhukaraphatak.com/rust-scala-part-1/
+* https://beachape.com/blog/2017/05/24/rust-from-scala/
+
 ## Swift
 
 * https://faq.sealedabstract.com/rust/
