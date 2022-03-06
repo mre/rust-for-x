@@ -38,6 +38,10 @@ This repository is still very rough around the edges. Please help me improve it 
 * https://www.newline.co/courses/rust-for-javascript-developers (online course)
 * https://developer.ibm.com/languages/node-js/articles/rust-for-nodejs-developers/
 
+## Kotlin
+
+* https://raybritton.github.io/kotlin-rust-guide/
+
 ## Python
 
 * https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
