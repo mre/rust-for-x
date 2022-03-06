@@ -61,6 +61,10 @@ This repository is still very rough around the edges. Please help me improve it 
 
 * https://faq.sealedabstract.com/rust/
 
+## TypeScript
+
+* https://www.thisdot.co/blog/how-to-get-into-rust-as-a-typescript-developer
+
 ## Other Lists
 
 * https://github.com/ctjhoa/rust-learning#comparison-with-other-languages
