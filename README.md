@@ -48,6 +48,11 @@ This repository is still very rough around the edges. Please help me improve it 
 
 * https://endler.dev/2017/rust-for-rubyists/
 
+## Rust
+
+* https://nostarch.com/rust-rustaceans
+* https://github.com/mre/idiomatic-rust
+
 ## Other Lists
 
 * https://github.com/ctjhoa/rust-learning#comparison-with-other-languages
