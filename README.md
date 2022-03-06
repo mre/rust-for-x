@@ -46,6 +46,10 @@ This repository is still very rough around the edges. Please help me improve it 
 
 * https://raybritton.github.io/kotlin-rust-guide/
 
+## Perl
+
+* https://oylenshpeegul.gitlab.io/from-perl-to-rust/
+
 ## Python
 
 * https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
